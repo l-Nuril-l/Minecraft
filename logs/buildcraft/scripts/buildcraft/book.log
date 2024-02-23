@@ -1,11 +1,11 @@
-Started at: 2024-02-22T15:37:30.909
+Started at: 2024-02-23T12:09:43.749
 #############
 #
 # Loading
 #
 #############
 
-# Found pack: C:\Users\Nuril\curseforge\minecraft\Instances\Miyuli Beta (2)\mods\buildcraft-all-7.99.24.8.jar
+# Found pack: C:\Users\Nuril\curseforge\minecraft\Instances\Miyuli (1)\mods\buildcraft-all-7.99.24.8.jar
 
 Found script: buildcraftlib/compat/buildcraft/book.txt
 
@@ -19,4 +19,4 @@ Found script: buildcraftcore/compat/buildcraft/book.txt
 
 Adding buildcraftlib:meta as GuideBook [ buildcraftlib:meta, title = TranslatableComponent{key='buildcraft.guide.book.meta.name', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}} ]
 Adding buildcraftcore:main as GuideBook [ buildcraftcore:main, title = TranslatableComponent{key='item.buildcraft.guide.name', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}} ]
-Finished at: 2024-02-22T15:37:31.772, took 863ms
+Finished at: 2024-02-23T12:09:44.263, took 514ms

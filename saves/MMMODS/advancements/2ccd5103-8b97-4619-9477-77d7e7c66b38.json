@@ -4010,7 +4010,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2023-02-02 15:15:39 +0200",
-      "plains": "2023-02-02 15:15:22 +0200"
+      "plains": "2023-02-02 15:15:22 +0200",
+      "roofed_forest": "2024-02-23 12:21:50 +0200",
+      "river": "2024-02-23 12:22:16 +0200"
     },
     "done": false
   },

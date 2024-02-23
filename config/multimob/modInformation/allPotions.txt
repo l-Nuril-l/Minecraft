@@ -25,12 +25,12 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
-ic2:radiation
 asmodeuscore:radiation
 asmodeuscore:overheat
 asmodeuscore:hypothermia
 biomesoplenty:curse
 galaxyspace:antiradiation
+industrialupgrade:radiation
 moreplanets:infected_purlonite
 moreplanets:infected_spore
 moreplanets:dark_energy

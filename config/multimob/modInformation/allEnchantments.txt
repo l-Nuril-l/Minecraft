@@ -41,13 +41,13 @@ minecraft:thaumicbases.eldritchbane
 minecraft:thaumicbases.elderknowledge
 minecraft:thaumicbases.tainted
 advancedrocketry:spacebreathing
-endercore:xpboost
 endercore:autosmelt
+endercore:xpboost
+enderio:repellent
 enderio:witherarrow
 enderio:soulbound
-enderio:repellent
-enderio:witherweapon
 enderio:shimmer
+enderio:witherweapon
 cqrepoured:lightning_protection
 cqrepoured:spectral
 divinerpg:rive
