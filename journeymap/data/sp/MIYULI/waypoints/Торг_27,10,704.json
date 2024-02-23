@@ -1,0 +1,18 @@
+{
+  "id": "Торг_27,10,704",
+  "name": "Торг",
+  "icon": "waypoint-normal.png",
+  "x": 27,
+  "y": 10,
+  "z": 704,
+  "r": 60,
+  "g": 111,
+  "b": 232,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    426
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Пчёлы_-13,64,358",
+  "name": "Пчёлы",
+  "icon": "waypoint-normal.png",
+  "x": -13,
+  "y": 64,
+  "z": 358,
+  "r": 168,
+  "g": 232,
+  "b": 139,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

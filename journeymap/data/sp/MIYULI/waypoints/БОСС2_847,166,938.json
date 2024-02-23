@@ -1,0 +1,18 @@
+{
+  "id": "БОСС2_847,166,938",
+  "name": "БОСС2",
+  "icon": "waypoint-normal.png",
+  "x": 847,
+  "y": 166,
+  "z": 938,
+  "r": 254,
+  "g": 59,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    427
+  ],
+  "persistent": true
+}

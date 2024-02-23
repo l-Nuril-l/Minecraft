@@ -1,0 +1,18 @@
+{
+  "id": "Ровно_189,99,945",
+  "name": "Ровно",
+  "icon": "waypoint-normal.png",
+  "x": 189,
+  "y": 99,
+  "z": 945,
+  "r": 28,
+  "g": 165,
+  "b": 47,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

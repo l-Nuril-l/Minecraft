@@ -1,0 +1,18 @@
+{
+  "id": "ЧАРКА_-3,83,495",
+  "name": "ЧАРКА",
+  "icon": "waypoint-normal.png",
+  "x": -3,
+  "y": 83,
+  "z": 495,
+  "r": 0,
+  "g": 228,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

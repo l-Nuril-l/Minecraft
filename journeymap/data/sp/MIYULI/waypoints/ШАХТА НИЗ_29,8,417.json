@@ -1,0 +1,18 @@
+{
+  "id": "ШАХТА НИЗ_29,8,417",
+  "name": "ШАХТА НИЗ",
+  "icon": "waypoint-normal.png",
+  "x": 29,
+  "y": 8,
+  "z": 417,
+  "r": 29,
+  "g": 239,
+  "b": 37,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

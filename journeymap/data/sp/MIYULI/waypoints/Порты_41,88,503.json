@@ -1,0 +1,18 @@
+{
+  "id": "Порты_41,88,503",
+  "name": "Порты",
+  "icon": "waypoint-normal.png",
+  "x": 41,
+  "y": 88,
+  "z": 503,
+  "r": 146,
+  "g": 249,
+  "b": 112,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

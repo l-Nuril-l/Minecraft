@@ -1,0 +1,19 @@
+{
+  "id": "107, -489_107,63,-489",
+  "name": "107, -489",
+  "icon": "waypoint-normal.png",
+  "x": 107,
+  "y": 63,
+  "z": -489,
+  "r": 29,
+  "g": 45,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false
+}

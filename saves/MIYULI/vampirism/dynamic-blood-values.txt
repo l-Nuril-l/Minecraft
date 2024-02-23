@@ -1,0 +1,14 @@
+#Dynamically calculated blood values - DON'T EDIT
+minecraft:skeleton_horse=15
+minecraft:zombie_horse=15
+natura:imp=7
+twilightforest:mist_wolf=3
+aether:kirrid=10
+aether:carrion_sprout=3
+aether:taegore=15
+quark:foxhound=3
+twilightforest:winter_wolf=3
+aether:moa=15
+aether:burrukai=15
+quark:crab=4
+divinerpg:hell_pig=8

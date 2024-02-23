@@ -1,0 +1,18 @@
+{
+  "id": "Extractor_58,12,501",
+  "name": "Extractor",
+  "icon": "waypoint-normal.png",
+  "x": 58,
+  "y": 12,
+  "z": 501,
+  "r": 24,
+  "g": 227,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    426
+  ],
+  "persistent": true
+}

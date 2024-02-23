@@ -1,0 +1,18 @@
+{
+  "id": "EnderDragon_1203,21,1023",
+  "name": "EnderDragon",
+  "icon": "waypoint-normal.png",
+  "x": 1203,
+  "y": 21,
+  "z": 1023,
+  "r": 85,
+  "g": 241,
+  "b": 171,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

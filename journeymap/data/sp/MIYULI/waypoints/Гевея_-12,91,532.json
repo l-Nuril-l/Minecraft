@@ -1,0 +1,18 @@
+{
+  "id": "Гевея_-12,91,532",
+  "name": "Гевея",
+  "icon": "waypoint-normal.png",
+  "x": -12,
+  "y": 91,
+  "z": 532,
+  "r": 70,
+  "g": 105,
+  "b": 68,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

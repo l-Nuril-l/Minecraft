@@ -1,0 +1,18 @@
+{
+  "id": "ЗОЛОТАЯ ЖИЛА_79,58,763",
+  "name": "ЗОЛОТАЯ ЖИЛА",
+  "icon": "waypoint-normal.png",
+  "x": 79,
+  "y": 58,
+  "z": 763,
+  "r": 30,
+  "g": 19,
+  "b": 197,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    424
+  ],
+  "persistent": true
+}

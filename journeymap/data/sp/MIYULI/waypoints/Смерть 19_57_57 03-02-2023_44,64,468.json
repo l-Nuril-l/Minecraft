@@ -1,0 +1,18 @@
+{
+  "id": "Смерть 19:57:57 03-02-2023_44,64,468",
+  "name": "Смерть 19:57:57 03-02-2023",
+  "icon": "waypoint-death.png",
+  "x": 44,
+  "y": 64,
+  "z": 468,
+  "r": 50,
+  "g": 152,
+  "b": 106,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    -28
+  ],
+  "persistent": true
+}

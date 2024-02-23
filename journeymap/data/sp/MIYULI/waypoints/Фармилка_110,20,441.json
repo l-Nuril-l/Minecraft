@@ -1,0 +1,18 @@
+{
+  "id": "Фармилка_110,20,441",
+  "name": "Фармилка",
+  "icon": "waypoint-normal.png",
+  "x": 110,
+  "y": 20,
+  "z": 441,
+  "r": 132,
+  "g": 86,
+  "b": 132,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

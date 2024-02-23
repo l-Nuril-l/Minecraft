@@ -1,0 +1,18 @@
+{
+  "id": "Ключи_25,9,715",
+  "name": "Ключи",
+  "icon": "waypoint-normal.png",
+  "x": 25,
+  "y": 9,
+  "z": 715,
+  "r": 92,
+  "g": 134,
+  "b": 198,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    426
+  ],
+  "persistent": true
+}

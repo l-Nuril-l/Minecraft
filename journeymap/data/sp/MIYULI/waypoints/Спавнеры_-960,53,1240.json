@@ -1,0 +1,18 @@
+{
+  "id": "Спавнеры_-960,53,1240",
+  "name": "Спавнеры",
+  "icon": "waypoint-normal.png",
+  "x": -960,
+  "y": 53,
+  "z": 1240,
+  "r": 206,
+  "g": 174,
+  "b": 153,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -1
+  ],
+  "persistent": true
+}

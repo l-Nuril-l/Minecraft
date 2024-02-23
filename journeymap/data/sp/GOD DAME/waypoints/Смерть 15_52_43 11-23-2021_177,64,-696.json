@@ -1,0 +1,19 @@
+{
+  "id": "Смерть 15:52:43 11-23-2021_177,64,-696",
+  "name": "Смерть 15:52:43 11-23-2021",
+  "icon": "waypoint-death-icon-map.png",
+  "x": 177,
+  "y": 64,
+  "z": -696,
+  "r": 227,
+  "g": 168,
+  "b": 116,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false
+}
